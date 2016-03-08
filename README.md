@@ -1,4 +1,4 @@
 swarm-2.0
 =========
 
-Edited version of 'Swarmwise'
+Edited version of 'Swarmwise' by Rick Falkvinge 
