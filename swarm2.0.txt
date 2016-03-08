@@ -11,13 +11,13 @@ CHAPTER ONE
 Understanding the Swarm
 
 
-A swarm is a decentralized, collaborative effort of volunteers that looks like a hierarchical, traditional organization from the outside. It is built by a small core of people that construct a scaffolding of go-to people, enabling a large number of volunteers to cooperate on a common goal with quantities of people not possible before the net.
+A swarm is a decentralized, collaborative effort of volunteers that looks like a traditional hierarchical organization from the outside. It is built by a small core of people that construct a scaffolding of go-to people, enabling a large number of volunteers to cooperate on a common goal with quantities of people not possible before the net.
 
 
-Working with a swarm requires you to do a lot of things completely opposite from what you learn at an archetypal business school. You need to release control of your brand and its messages. You need to delegate authority to the point where anybody can make almost any decision for the entire organization. You need to accept and embrace that people in the organization will do exactly as they please, and the only way to lead is to inspire them to want to go where you want the organization as a whole to go.
+Working with a swarm requires you to do things opposite from what you learn at business school. You need to release control of your brand and its messages. You need to delegate authority to the point where anybody can make almost any decision for the entire organization. You need to accept and embrace that people in the organization will do exactly as they please, and the only way to lead is to inspire them to want to go where you want the organization as a whole to go.
 
 
-It is only as you release that control, the kind of control that organizations and managers have held close to heart for centuries, that you can reap the benefits of the swarm: cost-efficiency advantage and execution-speed advantage against the competition. This book will teach you those methods, from the initial forming of the swarm to its growth and ongoing maintenance and delivery. It will not teach you the underlying theory of psychology and sociology — merely share experiences and methods that have been proven to work in practice.
+It is only as you release that control, the kind of control that organizations and managers have held close to heart for centuries, that you can reap the benefits of the swarm: cost-efficiency and execution-speed advantages against the competition. This book will teach you those methods, from the initial forming of the swarm to its growth and ongoing maintenance and delivery. It will not teach you the underlying theory of psychology and sociology — merely share experiences and methods that have been proven to work in practice.
 
 
 As we describe the swarm concept, it is easy to think of pure decentralized amorphous clouds of people, like Anonymous or the Occupy Wall Street movement. However, while these swarms share values, they do not share direction or method. That means they are confined to succeeding on small projects that span a relatively small number of people over a relatively short time span, even if each of those small projects builds gradual awareness of the Anonymous or Occupy brands.
@@ -77,8 +77,6 @@ Of course, this doesn’t mean every discussion over coffee or a drink must be r
 
 
 “Beware of he who would deny you access to information, for in his heart, he dreams himself your master.”
-
-
 — Commissioner Pravin Lal
 
 
@@ -94,7 +92,7 @@ Being fully transparent avoids information bottlenecks where information passed 
 So you have a provocative idea?
 
 
-You are probably reading this book because you have one or a couple of provocative ideas lurking in the back of your head and are looking for ways to realize them. Here, then, comes the boring part of realizing them: have you done the math?
+You are probably reading this book because you have one or a couple of provocative ideas lurking in the back of your head and are looking for ways to realize them. Here comes the boring part of realizing them: have you done the math?
 
 
 All swarms are a matter of quantity. Quantity of people. Like army ants in the Amazon rainforest, it is a matter of overpowering your opponents with sheer biomass through superior ability of organization and ability to channel volunteer energy — using your organizational agility to always be immensely stronger than your adversaries, whenever and wherever you choose to appear, just like the army ants overpower an opponent by their ability to quickly direct and relocate their local biomass advantage.
@@ -112,16 +110,16 @@ For a new political party like the Swedish Pirate Party, the success criterion i
 Let’s see how this goal breaks down.
 
 
-We would need activists in quality and voters in quantity. Politics, after all, is strictly a numbers game. It is a spectator sport performed in public.
+We need activists in quality and voters in quantity. Politics, after all, is strictly a numbers game -- a spectator sport performed in public.
 
 
-if you start talking about abstract concepts, you’ll just have yawns among your prospective volunteers. We’ll need a large recruitment surface with concepts that are easy to relate to people’s everyday lives in order to grow the swarm to critical mass.
+If you talk about abstract concepts, your prospective volunteers will just yawn. We need a large recruitment surface with easy to relate to concepts from people’s everyday lives in order to grow the swarm to critical mass.
 
 
-Once inside the swarm, people and activists will strive to understand the concepts on a deeper level. We need that, too. But the surface area of the swarm’s idea must be large enough to attain the sufficient quantity of people for success.
+Once inside the swarm, people and activists will strive to understand the concepts on a deeper level. We need that, too. But the surface area of the swarm’s idea must be large enough to attract sufficient people for success.
 
 
-Your idea must be possible to break down into that kind of math. How many people engaged at a minimum level, equivalent to voting, buying a product, or signing a petition, do you need to succeed?
+Your idea must break down into that kind of math. How many people engaged at a minimum level, equivalent to voting, buying a product, or signing a petition, do you need to succeed?
 
 
 You need to identify the group of people affected in a positive direction by your provocative idea, estimate the size of that group, and then make an educated guesstimate as to what portion of this group may engage in the swarm at the lowest level of activation.
@@ -279,7 +277,7 @@ Having set the initial structure, you need to tell everybody to go to the approp
 No doubt, some subgroups will want to charge ahead here and figure out all the answers to life, the universe, and everything – but at this point, getting the basic structure in place is first priority, enabling further absorption of more activists into the swarm. You shouldn't tell people who charge ahead to hold and wait, though (more about this in later chapters); just make sure leaders get selected.
 
 
-As leaders get picked by the subgroups, contact those leaders in person, introduce yourself, and get to know them more personally. You’ll be working closely with them in the near future, so you’ll want to get a feel for them as people and colleagues, and to allow them to get a feel for who you are as a person and colleague.
+As leaders get picked by the subgroups, contact those leaders in person, introduce yourself, and get to know them more personally. You’ll be working closely with them in the near future, so you’ll want to get a feel for them and  allow them to get a feel for who you are.
 
 
 You’ll also want to set up a subforum where these subgroup leaders can discuss things between themselves and with you. Make sure that other people can read it. Don’t keep secrets; rather, let everybody see the ongoing growth of your swarm.
@@ -296,19 +294,13 @@ This process takes a couple of days, but it kick-starts the swarm on all levels.
 The swarm’s first task
 
 
-As the swarm organizes into these subgroups by geography, it needs to be given a task immediately that allows it to jell properly. If you just tell people to go to a forum, they will lose interest in a week if nothing more happens. These are people who wanted to help the swarm succeed with the work of their own hands, remember?
-
-
-So in order to make this organization set and settle, there needs to be something to be done right away. In the case of the Swedish Pirate Party, that task was to collect two thousand signatures from the public to support the party’s registration with the Election Authority. It needs to be a task that looks challenging but is doable for some hundred people; it needs to be a task where you can provide for internal competition between the thirty-or-so geographic subdivisions that you have created; and it needs to be a task where everybody can see the clear benefit to the swarm upon its completion. In the case of a political party, registering it with the Election Authority was an obvious benefit that everybody realized; you’ll need to have a similar task at hand that leads to such a goal.
+As the swarm organizes into these subgroups by geography, it needs an immediate task to allow it to jell properly. If you just tell people to go to a forum, they will lose interest in a week if nothing more happens. In the case of the Swedish Pirate Party, that task was to collect two thousand signatures from the public to support the party’s registration with the Election Authority. It needs to be a task that looks challenging but is doable for some hundred people; it needs to be a task where you can provide for internal competition between the thirty-or-so geographic subdivisions that you have created; and it needs to be a task where everybody can see the clear benefit to the swarm upon its completion. In the case of a political party, registering it with the Election Authority was an obvious benefit that everybody realized; you’ll need to have a similar task at hand that leads to such a goal.
 
 
 What this does is cause the swarm to learn how to work together over the first four weeks or so of its existence, as this task is being carried out in a decentralized fashion. You should update the overall progress of the goal at least daily.
 
 
-A swarm organization isn’t first and foremost reporting lines between boxes on an org chart. A swarm organization is people who know other people and who choose to work together. Therefore, getting people to know other people should be an overarching goal of your activities at this point.
-
-
-Encourage people to meet informally over beer, pizza, and laughs. Focus on creating opportunities for people to get to know people, and for new people to feel welcomed to the group.
+A swarm organization isn’t first and foremost reporting lines between boxes on an org chart. A swarm organization is people who know other people and who choose to work together. Therefore, getting people to know other people should be an overarching goal of your activities at this point. Encourage people to meet informally over beer, pizza, and laughs. Focus on creating opportunities for people to get to know people, and for new people to feel welcomed to the group.
 
 
 Once such meetings become regular, it becomes even more important to make sure that newcomers feel welcome. One method of accomplishing this can be to start every meeting with an introductory round where people present themselves briefly along with some piece of trivia, such as the latest thing they downloaded or shared: “Hi, I’m Rick, forty. I’m mostly known here for setting up an ugly website. The most recent thing I downloaded was an Ubuntu Linux release.” Seeing everybody present himself or herself helps newcomers immensely, and it provides for a convenient framing for the newcomers to introduce themselves, as well as for the regulars to learn the newcomers’ names. Also, the local leaders will need to pay particular attention to the newcomers in every meeting, personally welcoming them back to the next meeting.
@@ -325,12 +317,7 @@ The organization consists only of relationships between people.
 Dealing with attention junkies
 
 
-As the swarm has its initial successes, a very small number of people will strive to join not because they sympathize with the swarm’s goals, but because they crave and demand attention for themselves, and the visibility of the swarm seems to be able to provide this to them.
-
-
-
-
-As the swarm is open, you cannot and should not try to keep these people out — but you can deny them the space and spotlights they crave. It can be hard to detect them, but one telltale sign is that these people will demand attention from you personally rather than trying to build the overall swarm with people who aren’t as visible yet. You will also notice that they think very much in terms of rank and hierarchy, whereas other people will think in terms of getting stuff done and changing the world.
+As the swarm has its initial successes, a very small number of people will strive to join not because they sympathize with the swarm’s goals, but because they crave and demand attention for themselves, and the visibility of the swarm seems to be able to provide this to them. As the swarm is open, you cannot and should not try to keep these people out — but you can deny them the space and spotlights they crave. It can be hard to detect them, but one telltale sign is that these people will demand attention from you personally rather than trying to build the overall swarm with people who aren’t as visible yet. You will also notice that they think very much in terms of rank and hierarchy, whereas other people will think in terms of getting stuff done and changing the world.
 
 
 A few particularly tricky people will work for the swarm’s goals very hard for the first couple of weeks, and then use the built-up credibility to cash in on attention. As this happens, the transparency of the swarm is the best conceivable antidote, as such people typically depend on other people not comparing the different versions of the story they’re being told.
@@ -351,10 +338,7 @@ While the effective swarm consists almost entirely of loosely knit activists, th
 If the last chapter was about the first six to eight days of the swarm’s lifecycle, this chapter is about the first six to eight weeks.
 
 
-In building this scaffolding of go-to people, of the swarm’s officers, it is your responsibility to be aware of limits to group sizes that prevent further growth once reached, and break up the groups that reach these sizes into smaller subgroups when that happens.
-
-
-You also need to be aware that any organization copies the methods and culture of its founder. This means that the swarm will do exactly as you do, regardless of persistent attempts to teach them good manners. The only way to have the swarm behave well is to behave well yourself. We’ll be returning to this observation later in this chapter.
+In building this scaffolding of go-to people, of the swarm’s officers, it is your responsibility to be aware of limits to group sizes that prevent further growth once reached, and break up the groups that reach these sizes into smaller subgroups when that happens. You also need to be aware that any organization copies the methods and culture of its founder. This means that the swarm will do exactly as you do, regardless of persistent attempts to teach them good manners. The only way to have the swarm behave well is to behave well yourself. We’ll be returning to this observation later in this chapter.
 
 
 
@@ -365,75 +349,31 @@ The three magic group sizes
 The few people upholding the scaffolding of the swarm will resemble a traditional hierarchical organization. However, it is important to understand that the role of this scaffolding is not directing and controlling the masses, as it would be in a corporation or other traditional organization. Rather, its role and value is in supporting the other 95 percent of the organization — the swarm — which makes its own decisions based on the values you communicate and looks to the scaffolding only when assistance, support, or resources are needed.
 
 
-Nevertheless, to build an efficient scaffolding, we must understand the human psyche when it comes to optimal group sizes and organizational theory.
-
-
-It can be easily observed in any organization that working groups larger than seven people fragment into two smaller groups. There are several theories as to why this happens, but the prevailing theory has to do with the amount of effort we need to spend upholding and caring for relationships within a working group. Let’s illustrate with an example.
+To build an efficient scaffolding, we must understand the human psyche when it comes to optimal group sizes and organizational theory. It can be easily observed in any organization that working groups larger than seven people fragment into two smaller groups. There are several theories as to why this happens, but the prevailing theory has to do with the amount of effort we need to spend upholding and caring for relationships within a working group. Let’s illustrate with an example.
 
 
 In a group of two people, there is just one relationship that the group needs to care for.
 
 
-In a group of three people, there are three relationships (A to B, B to C, and A to C).
+In a group of three people, there are three relationships (A to B, B to C, and A to C). In a group of five, there are 4+3+2+1 = ten relationships. Up the group size to the critical seven people and there are twenty-one relationships to maintain in order to function as a working group. The social complexity of the group increases much faster than the group size and the group becomes inefficient, spending so much effort to stick together that it gets very little work done. Add an eighth member to a group and the number of relationships climbs from twenty-one to twenty-eight. Adding an eighth member to the group adds 14 percent work capacity to the group compared to seven people, but requires the group to spend 33 percent more of their combined work capacity on the task of maintaining the group itself, on maintaining twenty-eight relationships instead of twenty-one. At this point, or sometimes at a ninth member, the group falls apart. Construct the scaffolding organization so that no person has more than six people working with him or her in a given context. This means that, for a given geography (like any state, country, city, etc.) in the organizational chart, that geography must subdivide into at most six smaller geographies which have other people responsible for those smaller geographies.
 
 
-
-
-In a group of five, there are suddenly 4+3+2+1 = ten relationships. And if we up the group size to the critical seven people, there are twenty-one relationships between people that the group needs to maintain in order to function as a working group.
-
-
-As we can see in this math, the social complexity of the group increases much faster than the group size. At some point, the group becomes inefficient, having to spend so much effort just on cohering the group that it gets very little or no actual work done.
-
-
-When we add an eighth member to a group, the number of relationships to maintain climbs from twenty-one to twenty-eight. So while adding an eighth member to the group adds 14 percent work capacity to the group compared to seven people, it also requires the group to spend 33 percent more of their combined work capacity on the task of maintaining the group itself, on maintaining twenty-eight relationships instead of twenty-one. At this point, or sometimes at a ninth member, the group falls apart.
-
-
-What we learn from this is that the scaffolding needs to be constructed so that no more than seven people work closely with one another in a given tight context.
-
-
-We do this in the classical way, by constructing the scaffolding’s organizational chart so that no person has more than six people working with him or her in a given context. This means that, for a given geography (like any state, country, city, etc.) in the organizational chart, that geography must subdivide into at most six smaller geographies which have other people responsible for those smaller geographies.
-
-
-For now, we call this type of officer a geography leader for the swarm. He or she could be a state leader, city leader, circuit leader — any size of geography — but his or her duties will basically be the same.
+Call this type of officer a geography leader. He or she could be a state leader, city leader, circuit leader — any size of geography — but his or her duties will basically be the same.
 
 
 (You will recall that we kick-started the swarm by subdividing it by geography and letting geography leaders emerge through self-organization.)
 
 
-Also, for every geography, we will probably have four function officers and one or two deputies in addition to the geography leader. (We’ll be returning to these terms and a sample organizational chart later in this chapter.) This, again, makes a group of at most seven in total.
+For every geography, we will probably have four function officers and one or two deputies in addition to the geography leader. (We’ll be returning to these terms and a sample organizational chart later in this chapter.) This, again, makes a group of at most seven in total. The key message is that no geography leader should have more than six people working directly with them. Construct a number of organizational mini-pyramids from the top down in the scaffolding, each with (at most) seven people in it, where each geography leader is both at the bottom of one pyramid and at the top of another as shown:
 
 
-So the key message here is that no geography leader should have more than six people working directly with him or her in a given context. This means that we construct a number of organizational mini-pyramids from the top down in the scaffolding, each with (at most) seven people in it, where each geography leader is both at the bottom of one pyramid and at the top of another, the one immediately below, as shown in this picture:
+The smallest of the three magic social group sizes is seven. The largest is 150.
 
 
-So the smallest of the three magic social group sizes is seven.
+There is no relationship between these numbers. The number seven appears to come from a practical limit to the effort spent on maintaining a group, as previously explained. The more elusive number 150 appears to be a limit hardwired into our brains and appears in many places through human organizational history. It is our maximum tribe size. In a given context, we have the capacity to know this many people by name and have the loosest of bonds with them. This limit is also known as Dunbar’s Number, or the Dunbar Limit, from British anthropologist Robin Dunbar, who first wrote about it. The most successful companies, organizations, and cultures are keenly aware of this human limit. To take the Amish as one example, as their settlements approach 150 in size, they split the settlement into two. The company Gore and Associates — more known as the makers of the Gore-Tex fabric — never puts more than 150 employees in a single plant. Like every successful organization: you need to know that groups above 150 people in size will lose the social bonding required for efficiency and, well, the fun.
 
 
-The largest is 150.
-
-
-There is no relationship between these numbers. The number seven appears to come from a practical limit to the effort spent on maintaining a group, as previously explained. The more elusive number 150 appears to be a limit hardwired into our brains.
-
-
-The number 150 appears in tons of places through human organizational history. It is our maximum tribe size. In a given context, we have the capacity to know this many people by name and have the loosest of bonds with them.
-
-
-Anthropologists, looking at the size of the neocortex in our brain and comparing it to those of other primates and their tribe sizes, tend to regard this number as a biological limit.
-
-
-This limit is also known as Dunbar’s Number, or the Dunbar Limit, from British anthropologist Robin Dunbar, who first wrote about it.
-
-
-If you are working at a company which has fewer than 150 employees, odds are that you know them all by name — or at least you have the capacity to do so. Beyond that size, you start referring to anonymous people by their function rather than referring to people you know by their name. You’ll go see “somebody in Support,” rather than “having a talk with Maria or Dave.”
-
-
-The most successful companies, organizations, and cultures are keenly aware of this human limit. To take the Amish as one example, as their settlements approach 150 in size, they split the settlement into two. The company Gore and Associates — more known as the makers of the Gore-Tex fabric — never puts more than 150 employees in a single plant. There are many more examples.
-
-
-The effect on building your organization is the same as in every other successful organization: you need to know that groups above 150 people in size will lose the social bonding required for efficiency and, well, the fun.
-
-
-However, you probably won’t have any formal group of this size. Rather, it is the informal groups that inevitably form that you need to pay attention to, and how they — once they hit this limit — can prevent further growth of the swarm.
+You probably won’t have formal groups of this size. It is the informal groups that inevitably form that you need to pay attention to, and how they — once they hit this limit — can prevent further growth of the swarm.
 
 
 In particular, you need to pay attention to the initial and horizontal team of people that will gather in a chat channel or similar spot, probably titled “chat channel about everything related to the swarm.” This organically formed group will have a glass ceiling of 150 people in size, and unless you are aware of these mechanisms, that glass ceiling won’t be noticed. When this happens, further necessary growth of the swarm will be prevented, as more people can’t be socially integrated into that initial chat channel.
