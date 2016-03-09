@@ -400,8 +400,6 @@ If you did this, then three to four weeks into the swarm’s lifecycle, it is su
 So to summarize the important part of this: keep formal working groups in the scaffolding to about seven people. When several groups are working together, try to keep the size at or below thirty. Finally, pay close attention to when informal swarm groups approach 150 people in size. When that happens, take steps to break them up in smaller subgroups.
 
 
-(I first learned of the different dynamics of these three group sizes – seven, thirty, and 150 — as part of my army officer’s training in my early twenties. It is no coincidence that they correspond to squad, platoon, and company size, respectively. Since then, these group sizes have reappeared in almost every leadership training and management workshop, in one aspect or another. More importantly, all my experience with building swarms confirms their importance.)
-
 
 
 
@@ -423,7 +421,7 @@ Remember, leadership in a swarm is received through inspiring others: standing u
 Put another way, the leaders and officers are not somebody’s boss just because they have some responsibility.
 
 
-The first time you see people self-organize, it feels like magic. What you need to do is to communicate very clearly what you want to see happen and why. If people agree with you, they will make that happen, without you telling a single person what to do further. They will self-organize, and people interested in making it happen will gravitate by themselves to a subtask where they can help deliver the desired result. Each person will do this in his or her own way according to his or her own skill set, with no assignment or microsupervision necessary, causing the whole of the task to happen.
+The first time you see people self-organize, it feels like magic. What you need to do is to communicate very clearly what you want to see happen and why. If people agree with you, they will self-organize and make that happen, without you telling a single person anything else. People interested in making it happen will gravitate by themselves to a subtask where they can help. Each person will do this in his or her own way according to his or her own skill set, with no assignment or microsupervision necessary, causing the whole of the task to happen.
 
 
 This is also a key mechanism in swarm organizations. You cannot and should not try to tell anybody in the swarm what to do; rather, your role is to set goals and ambitions, ambitions that don’t stop short of changing the entire world for the better.
@@ -432,7 +430,7 @@ This is also a key mechanism in swarm organizations. You cannot and should not t
 We have seen something similar happen already, when the first onslaught of activists happened in chapter 2 and several hundred people were waiting for instructions. You told them to self-organize by geography and choose leaders for the geographies. That was a form of self-organization, albeit a rudimentary one.
 
 
-In a swarm, working groups will form by themselves left and right to accomplish subtasks of your overall vision, subtasks you haven’t even identified. This is part of how a swarm works and why it can be so effective.
+In a swarm, working groups will form by themselves left and right to accomplish subtasks of your overall vision, subtasks you haven’t even identified. This is how a swarm works and why it can be so effective.
 
 
 So once the scaffolding of officers is in place, with its responsibility to support the swarm, groups and activities will form all over without any central planning — and, importantly, without any central control.
@@ -452,7 +450,7 @@ Another thing you will notice as the self-organization starts to happen is that 
 Org charts and organic growth
 
 
-There are three key concepts the swarm organization is optimized for: speed, trust, and scalability. When building the Swedish Pirate Party, this was a deliberate decision from the start, and it proved very successful.
+The swarm is optimized for: speed, trust, and scalability. When building the Swedish Pirate Party, this was a deliberate decision, and it proved very successful.
 
 
 We can optimize for speed by removing all conceivable bottlenecks. A swarm is typically starved of money, so it must compete on other grounds. Its reaction speed and reaction weight are more than enough to offset the lack of funds.
@@ -521,15 +519,7 @@ One person should have one role in the scaffolding, with any kind of multirole p
 
 Empty boxes in the scaffolding’s organization chart are not bad. They can and will fill up as time passes and groups fill up to the magic size limits and need to break out into subswarms. Don’t unnecessarily appoint people to roles because you think empty boxes look bad: an occupied box will block somebody else from filling that role, and so may be preventing the overall growth of the swarm if the person originally appointed to the box wasn’t really interested.
 
-
-Do not be afraid of empty boxes in the org chart.
-
-
 So do not be afraid of empty boxes in the organizational chart. They provide opportunity for somebody to step up to the plate informally, at which point the chart can be updated to reflect reality. It can help to think of the organizational chart as the map rather than the terrain — when there’s a conflict between the two, the terrain wins every time. The organizational chart is an estimate, at best, of what the organization actually looks like.
-
-
-(This does not apply to military maps. When those have misprints, the military modifies the terrain to match the printed map, which happened at least once during my army term.)
-
 
 
 
@@ -597,13 +587,13 @@ On the flip side of that coin, understanding, patience, collegiality, and passio
 One value that you must absolutely communicate for the swarm to work is trust. You need to trust in people in the swarm to further the swarm’s goals, even if they choose a different way of doing so than you would have chosen, and even if you can’t see how it could possibly work.
 
 
-You also need to communicate that everybody must trusteach other in this regard. Leading by doing is necessary here, but not sufficient; you need to periodically repeat that one of the core values of the swarm is that we trusteach other to work for the swarm in the ways that we can do so as individuals.
+You also need to communicate that everybody must trust each other in this regard. Leading by doing is necessary here, but not sufficient; you need to periodically repeat that one of the core values of the swarm is that we trusteach other to work for the swarm in the ways that we can do so as individuals.
 
 
 It turns out that one thing that makes swarms so outstanding in efficiency is their diversity. People come from all walks of life, and once they realize they have a full mandate to work for the swarm in the ways that they can, they will just do so.
 
 
-In the Swedish Pirate Party, we had manifested this through a three-pirate rule, which can easily be translated into a three-activist rule for any swarm. It went like this: if three activists agree that something is good for the organization, they have a green light to act in the organization’s name. It’s not that they don’t need to ask permission — it goes deeper than that. Rather, they should never ask permission if three activists agree that something is good.
+In the Swedish Pirate Party, we had the three-pirate rule, which can easily be translated into a three-activist rule for any swarm. It went like this: if three activists agree that something is good for the organization, they have a green light to act in the organization’s name. It’s not that they don’t need to ask permission — it goes deeper than that. Rather, they should never ask permission if three activists agree that something is good.
 
 
 Asking permission, after all, is asking somebody else to take responsibility for your actions – no, take accountability for your actions. But a swarm doesn’t work like that. Also, the person who would have given that permission would probably be in a worse situation to determine if this action would work in the context the original activists had in mind.
@@ -667,7 +657,7 @@ The key reasons the swarm should not be leaderless are two. You will notice that
 The second reason the swarm should not be leaderless is these very mechanisms, the swarm’s culture of allowing people to act. These values will be key to the swarm’s success, and those values are set and established by you as its founder. If the swarm starts discussing its methods of conflict resolution, putting the swarm in a state where there is no longer any means to even agree whether people have arrived at an agreement, then the necessary activism for the end goal will screech to a halt.
 
 
-Therefore, I believe that leaderless swarms are not capable of delivering a tangible change in the world at the end of the day. The scaffolding, the culture, and the goals of the swarm need to emanate from a founder. In a corporate setting, we would call this “mission and values.”
+Therefore, I believe that leaderless swarms are not capable of delivering a tangible change in the world at the end of the day. The scaffolding, the culture, and the goals of the swarm need to emanate from a founder.
 
 
 That said, I also believe in competition between many overlapping swarms, so that activists can float in and out of organizations, networks, and swarms that best match the change they want to see in the world. One swarm fighting for a goal does not preclude more swarms doing the same, but perhaps with a slightly different set of parameters from a different founder. This is fundamentally good for the end cause.
@@ -681,16 +671,10 @@ So the sum of this little introspective reflection at the start of the chapter i
 You do the vision, the swarm does the talking
 
 
-Traditional marketing says that a message needs to stay constant to penetrate. My experience says that’s not very effective when compared to swarm techniques.
+Traditional marketing says that a message needs to stay constant to penetrate. My experience says that’s not very effective when compared to swarm techniques. It may certainly be true that you can influence routine buying patterns or even routine voting patterns with simpleton messages of the one-size-fits-all type. But if you want energized activists, people who walk an extra mile to make a difference, then it’s a different ballgame entirely.
 
 
-It may certainly be true that you can influence routine buying patterns or even routine voting patterns with simpleton messages of the one-size-fits-all type. But if you want energized activists, people who walk an extra mile to make a difference, then it’s a different ballgame entirely.
-
-
-You don’t want a routine pattern when you’re looking for activists. You want people who are passionate, who feel like kings or queens of the world, and who can’t wait to make a difference with their bare hands.
-
-
-Try to do that with centrally designed TV ads. You can’t. No matter how many millions you spend on an ad, it cannot be done. (This disregards the fact that swarms form in cash-strapped environments in the first place.)
+You don’t want a routine pattern when you’re looking for activists. You want people who are passionate, who feel like kings or queens of the world, and who can’t wait to make a difference with their bare hands. Try to do that with centrally designed TV ads. You can’t. No matter how many millions you spend on an ad, it cannot be done. (This disregards the fact that swarms form in cash-strapped environments in the first place.)
 
 
 “A man does not have himself killed for a half-pence a day or for a petty distinction. You must speak to the soul in order to electrify him.”
@@ -799,10 +783,7 @@ Take to the streets
 Going back to the social mechanisms of accepting ideas, it is not really enough that people hear the swarm’s message from their friends, in particular their friends and acquaintances online.
 
 
-We come back to the importance of inclusionand exclusion, and how vital it is for people to meet somebody they can identify with who carries the ideas visibly. Group psychology is everything here. When this happens, the ideas can carry over to the new individual.
-
-
-The keys here are two: “meet” and “identify with.” People need to see the swarm in the streets on their way to work or school, and in random places in their daily life. They need to understand that this is something that takes place online and offline, in other places than just in their circle of friends.
+We come back to the importance of inclusion and exclusion, and how vital it is for people to meet somebody they can identify with who carries the ideas visibly. Group psychology is everything here. When this happens, the ideas can carry over to the new individual. The keys here are two: “meet” and “identify with.” People need to see the swarm in the streets on their way to work or school, and in random places in their daily life. They need to understand that this is something that takes place online and offline, in other places than just in their circle of friends.
 
 
 This is not as impossible as it may sound.
@@ -912,7 +893,7 @@ In any case, limit any winter rally to about thirty minutes.
 Scale out, out, out
 
 
-A key concept of the swarm is “scaling out.” This refers to the process of moving every activity as far out toward the edges of the swarm as possible, involving as many people as possible — and, while we’re doing so, scaling out the swarm’s operating costs along with the activity.
+A key concept of the swarm is “scaling out.” This refers to moving every activity as far out toward the edges of the swarm as possible, involving as many people as possible — and, while we’re doing so, scaling out the swarm’s operating costs along with the activity.
 
 
 Scaling out is an IT term. When something grows in size, in the language of the IT industry, you can scale up or out your server park. Scaling up means that you replace the servers currently doing the work with more expensive servers. Scaling out means that you keep the low-cost servers currently doing the job, and add more such low-cost servers. We’re adding more activists. Many more activists. We’re scaling out our work.
@@ -956,25 +937,15 @@ In the next chapter, we’ll take a deeper look at self-organization and making 
 PART II
 
 
-LEADING
-
-
-THE
-
-
-SWARM
-
-
-
+LEADING THE SWARM
 
 CHAPTER FIVE
 
 
-Keep Everybody’s Eyes on
-Target, and Paint It Red Daily
+Keep Everybody’s Eyes on Target, and Paint It Red Daily
 
 
-Anybody who has led guilds or raids in World of Warcraftcan learn how to lead a swarm. Or, for that matter, most entrepreneurs who have led small-scale teams dependent on trust. In essence, it’s the same social and psychological mechanisms.
+Anybody who has led small-scale teams dependent on trust. In essence, it’s the same social and psychological mechanisms.
 
 
 If I had to pick one skill that was crucial in allowing me to lead the Swedish Pirate Party on its journey from two lines in a chat channel to taking seats in the European Parliament, it would be skills and experience in project management.
@@ -1007,7 +978,7 @@ The takeaway here is that authority and accountability must always follow each o
 This is also why, as we discussed in chapter 3, the organizational chart of the swarm’s scaffolding should lag slightly behind the observed reality. You don’t appoint somebody to lead a function — you observe that somebody is already leading a function, voluntarily taking accountability for it, and ask politely whether they would mind if that fact were made formal in an announcement together with the corresponding authority (if any).
 
 
-Along the same lines, the crucial project managementskills that helped me lead the Swedish Pirate Party into the European Parliament were not the skills you’d learn in a project managementclass — things about gates, schedules, budgets, or stakeholders. It was much more the soft skills that come with experience: how to maintain a group’s motivation, focus, energy, and commitment to deliver.
+Along the same lines, the crucial project management skills that helped me lead the Swedish Pirate Party into the European Parliament were not the skills you’d learn in a project managementclass — things about gates, schedules, budgets, or stakeholders. It was much more the soft skills that come with experience: how to maintain a group’s motivation, focus, energy, and commitment to deliver.
 
 
 Incidentally, these were skills I learned as an entrepreneur and a project manager during the dot-com boom of the late 1990s.
@@ -1082,9 +1053,6 @@ Also, it is crucial that you allow the swarm’s scaffolding to keep growing org
 
 
 This is part of the necessary scaling out.
-
-
-
 
 Draw the timeline for all to see
 
