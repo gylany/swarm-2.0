@@ -1,4 +1,7 @@
-﻿Based on “SWARMWISE, The Tactical Manual to Changing the World, by Rick Falkvinge”
+﻿Edited Version of “SWARMWISE, The Tactical Manual to Changing the World, by Rick Falkvinge”
+You are free to make as many copies of this book as you like and share with friends and strangers, as long as you credit the author and you don’t sell them. Actually, you’re not just free to share copies with your friends, but downright encouraged to. If you like this book, why shouldn’t you share it with your friends?
+
+Formally, this book is under copyright monopoly until January 1, 2034 — twenty years from publication. During that time, it is licensed under a Creative Commons Noncommercial-Attribution 3.0 license, meaning what is said above about free sharing. These are the same terms as suggested in the author’s previous book, The Case for Copyright Reform. Commercial exclusive rights rest with the author for the twenty years.
 
 
 “Your most valuable asset is the thousands of
@@ -1120,7 +1123,7 @@ Let’s take that again, because you probably skimmed it while speed-reading, an
 
 
 Anything that you measure in public, people will strive and self-organize to improve.
-
+>>>rjs
 
 It’s basically that simple, and that complex. The Swedish Pirate Party posts its liquidity, assets, debts, and donation summaries openly (as many political organizations do now, but not a lot did so in 2006). This leads to people wanting to break new donation records.
 
