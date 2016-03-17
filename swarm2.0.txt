@@ -1123,36 +1123,40 @@ Let’s take that again, because you probably skimmed it while speed-reading, an
 
 
 Anything that you measure in public, people will strive and self-organize to improve.
+
 >>>rjs Use 12 step as an example? Nobody cares (or has heard) about the Swedish Pirate Party 
 
-It’s basically that simple, and that complex. The Swedish Pirate Party posts its liquidity, assets, debts, and donation summaries openly (as many political organizations do now, but not a lot did so in 2006). This leads to people wanting to break new donation records.
-
-
-Same thing with membership numbers, and in particular their growth rate.
-
-
-Same thing with response times to mail. Exposure events in oldmedia (TV, radio, newspapers). Mentions on blogs and Twitter. And so on.
-
-
-(Some people refer to this as gamification, a term that can come across as unnecessarily derogatory. This is not about producing work of low quality because you somehow goof off and think you’re playing games while producing it; rather, it’s about finding ways to engage the reward mechanisms of the brain for doing brilliant work in the same ways that successful video games do.)
+It’s basically that simple, and that complex. The Swedish Pirate Party posts its liquidity, assets, debts, and donation summaries openly (as many political organizations do now, but not a lot did so in 2006). This leads to people wanting to break new donation records. Same thing with membership numbers as well as; response times to mail,exposure events in oldmedia (TV, radio, newspapers), mentions on blogs and Twitter and in particular their growth rate.(Some people refer to this as gamification, a term that can come across as unnecessarily derogatory. This is not about producing work of low quality because you somehow goof off and think you’re playing games while producing it; rather, it’s about finding ways to engage the reward mechanisms of the brain for doing brilliant work in the same ways that successful video games do.)
 
 
 Anything you measure in public will get improved. Make sure it’s the right thing.
 
 
-Three things emerge as important here. First, the conclusion that things that aren’t measured don’t get handled well, or indeed at all. This is partly true. Some things are fun to do anyway and will get done just because of that — this particularly involves social and creative activities. Routine activities that are the same from day to day require some kind of motivating visible mechanism or,a competitive element.
+Three things are important here.
+
+         - Things that aren’t measured don’t get handled well, or indeed at all.
+         
+This is partly true. Some things are fun to do anyway and will get done just because of that — this particularly involves social and creative activities. Routine activities that are the same from day to day require some kind of motivating visible mechanism or,a competitive element.
 
 
-Let’s take mail responsesas an example. Responding to mail addressed to the swarm at some public request-for-information address is hardly a very visible task, nor is it a very creative one, and yet it is one of the more important ones. Quick response times with proper and correct responses can make or break your swarm once oldmedia decide to try you out. Therefore, this is something we need to pay attention to.
+Look at responding to mail. Responding to mail addressed to the swarm at some public request-for-information address is neither very visible or very creative but it is one of the more important ones. Quick response times with proper and correct responses can make or break your swarm once oldmedia decide to try you out. Therefore, this is something we need to pay attention to.
 
 
-A very working solution to this dilemma is to use internal competitions with silly prizes. (Tangible rewards should rarely be individual in a swarm — always foster teamwork.) Use divisions by geography or some other arbitrary line to create teams that compete against one another in providing helpful answers quickly.
+A solution to this dilemma is to use internal competitions with silly prizes. (Tangible rewards should rarely be individual in a swarm — always foster teamwork.) Use divisions by geography or some other arbitrary line to create teams that compete against one another in providing helpful answers quickly.
 
 
-This is the second observation that emerges. If measuring things gets them done (and indeed, there is no upper limit to how many metrics you can or should track publicly), measuring things in internal competitions gets them done even more. As I already mentioned, this is how we jelled the organization in the Swedish Pirate Party right after its founding when collecting signatures for the party’s formal registration. There is a social limit to how many competitions you can have working at a time, which is probably higher than one but lower than five — this is up to you and your swarm to find out.
+This is the second observation that emerges.
+
+   - Measuring things gets them done. Measuring things using internal competitions gets them done even more.
+   
+As I mentioned, this is how we jelled the organization in the Swedish Pirate Party right after its founding when collecting signatures for the party’s formal registration. There is a social limit to how many competitions you can have working at a time, which is probably higher than one but lower than five — this is up to you and your swarm to find out.
 
 
-The third observation is the crucial importance of measuring the right thing. There are many horror stories of people who measure the slightly wrong thing, and therefore end up with terrible results.
+Third:
+
+    - Measuring the right thing is crucial.
+>>>rjs stop here
+There are many horror stories of people who measure the slightly wrong thing, and therefore end up with terrible results.
 
 
 Some things can’t be measured directly, and so you have to find some other thing that you can measure that has an assumed or known correlation to the thing you want to actually measure. Take alcohol consumption, for example. You can’t measure alcohol consumption in a country directly, but you can measure alcohol sales. This was done in Sweden a couple of decades ago, and the authorities responsible for public health rejoiced as alcohol consumption — as it was assumed to be, and published as such — went down steadily, year after year.
@@ -1183,11 +1187,7 @@ Group psychology and individual proficiency of tasks mature as they gain experie
 
 Let’s look first at what it takes to train an individual in a new task. It can be something as everyday as handing out flyers, or it can be doing a live debate on CNN or al-Jazeera in front of several million people. The principles are the same, and people can sweat in anxiety before doing either one for the first time.
 
-
-In general, I find that a model with four leadership styles works well.
-
-
-These four leadership styles are quite different, and you need to use all of them when leading a swarm, reading each situation and applying the corresponding style. A frequent comparison of these leadership styles is the progression of the narrative in the movie Karate Kid (the original, not the remake), and the combination of these styles and the ability to shift between them has been described as situational leadership.
+There are four leadership styles that work well. Each is different, and you need to use all of them when leading a swarm, based on the situation. A frequent comparison of these leadership styles is the progression of the narrative in the movie Karate Kid (the original, not the remake), and the combination of these styles and the ability to shift between them has been described as situational leadership.
 
 
 It is a vital part of the leadership role to personally train those who regard you as their leader.
