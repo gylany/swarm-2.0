@@ -1154,43 +1154,21 @@ As I mentioned, this is how we jelled the organization in the Swedish Pirate Par
 
 Third:
 
-    - Measuring the right thing is crucial.
->>>rjs stop here
-There are many horror stories of people who measure the slightly wrong thing, and therefore end up with terrible results.
+    - Measuring the right thing is crucial. Some things can’t be measured directly so you have to find something with an assumed or known correlation to the thing you want to actually measure.
+
+Take alcohol consumption, for example. You can’t measure alcohol consumption in a country directly, but you can measure alcohol sales. This was done in Sweden a couple of decades ago, and the authorities responsible for public health rejoiced as alcohol consumption — as it was assumed to be, and published as such — went down steadily, year after year. Then, somebody in charge discovered that about one-third of what Swedes drink is moonshine vodka, au naturel or spiced into schnapps. (A proud handicraft of our people, I might add.) This was never sold in regulated stores, and therefore never measured. Bureaucrats who live for rules and regulations had been making false assumptions — that people cared in the slightest about what the law said in this aspect — and alcohol consumption had actually increased steadily, leading to bad conclusions and bad policy as a result of bad metrics.
 
 
-Some things can’t be measured directly, and so you have to find some other thing that you can measure that has an assumed or known correlation to the thing you want to actually measure. Take alcohol consumption, for example. You can’t measure alcohol consumption in a country directly, but you can measure alcohol sales. This was done in Sweden a couple of decades ago, and the authorities responsible for public health rejoiced as alcohol consumption — as it was assumed to be, and published as such — went down steadily, year after year.
-
-
-Then, somebody in charge discovered that about one-third of what Swedes drink is moonshine vodka, au naturel or spiced into schnapps. (A proud handicraft of our people, I might add.) This was never sold in regulated stores, and therefore never measured. Bureaucrats who live for rules and regulations had been making false assumptions — that people cared in the slightest about what the law said in this aspect — and alcohol consumption had actually increased steadily, leading to bad conclusions and bad policy as a result of bad metrics.
-
-
-In the software business, the examples of this are too numerous. For example the site mp3.com, which was a pioneer in the music-in-the-cloud business. (They were so much a pioneer, in fact, that the copyright industry sued them out of existence, bought the remnants for scrap value, and closed them down.) They had this experiment in 2001 called pay-for-play where an artist would get a piece of the site’s revenue, shared between the artists on mp3.com according to how much they were played on the site. Thus, a fixed portion of money was to be distributed to the artists of mp3.com, according to objective metrics of their popularity, as measured by the number of track plays on the site for a particular artist.
-
-
-Bzzzzt. Very bad idea. But thanks for playing.
-
-
-What happened was utterly predictable — everybody wanted to support their favorite artist financially, and therefore set all computers they could access to play music from that particular artist from the site mp3.com, but with the volume turned off as to not disturb anybody. Some people coded playbots that would repeatedly stream an artist’s music to boost artificial numbers that translated into money. Heisenberg metrics.
-
-
-At the end of the day, the conclusion here is that you not only need to visualize the progress toward the nearest subgoal and the end goal of the swarm, but many other metrics as well that indicate the overall health of the swarm’s performance. You should pay particular attention to the fact that as you increase the number of metrics visualized, the tasks that don’t get measured at all will get less priority. Some of them may be important.
-
-
+The conclusion is that you need to visualize the progress toward the nearest subgoal and the end goal of the swarm and many other metrics that indicate the overall health of the swarm. You should pay attention to the fact that as you increase the number of metrics visualized, the tasks that don’t get measured at all will get less priority. Some of them may be important.
 
 
 Different leadership styles
 
 
-Group psychology and individual proficiency of tasks mature as they gain experience. In different phases of group cohesion and individual proficiency, you need to lead in different ways.
+Group psychology and individual proficiency mature as experience is gained. In different phases  you need to lead in different ways. Here are four leadership styles that work well. Each is different, and you need to use all of them when leading a swarm. The combination of these styles and the ability to shift between them has been described as situational leadership.
 
 
-Let’s look first at what it takes to train an individual in a new task. It can be something as everyday as handing out flyers, or it can be doing a live debate on CNN or al-Jazeera in front of several million people. The principles are the same, and people can sweat in anxiety before doing either one for the first time.
-
-There are four leadership styles that work well. Each is different, and you need to use all of them when leading a swarm, based on the situation. A frequent comparison of these leadership styles is the progression of the narrative in the movie Karate Kid (the original, not the remake), and the combination of these styles and the ability to shift between them has been described as situational leadership.
-
-
-It is a vital part of the leadership role to personally train those who regard you as their leader.
+Let’s look first at what it takes to train an individual in a new task. It can be something as everyday as handing out flyers, or it can be doing a live debate on CNN or al-Jazeera in front of several million people. The principles are the same, and people can sweat in anxiety before doing either one for the first time. It is a vital part of the leadership role to personally train those who regard you as their leader.
 
 
 When somebody is entirely unskilled in an art, you need to give direct, specific, and explicit instructions. Hold his or her hand entirely. At this stage, you need to focus on the actions to take and how to do them properly, rather than explaining their purpose in the greater scheme of things.
@@ -1220,37 +1198,32 @@ The difference in results lies in the very specific instructions. Every degree o
 Vary your leadership style with people’s experience of the topic at hand.
 
 
-Same thing with handing out flyers, as we discussed in the last chapter. You need to make sure that every flyer handoutis preceded by a very direct and inclusive instruction detailing every part of handing out, like the instructions described in that chapter. This is direct leadership.
+Same thing with handing out flyers, as we discussed in the last chapter. You need to make sure that every flyer handout is preceded by a very direct and inclusive instruction detailing every part of handing out, like the instructions described in that chapter. This is direct leadership.
 
 
-The next stage and type of leadership is applied when people have mastered the basic actions, but are getting frustrated over their lack of context. They don’t see the road ahead and don’t feel progress. At this stage, you need to drop the direct handholding leadership and encourage and explain why these actions lead to positive results.
+The second type of leadership is applied when people have mastered the basic actions, but are getting frustrated over their lack of context. They don’t see the road ahead and don’t feel progress. At this stage, you need to drop the direct handholding leadership and encourage and explain why these actions lead to positive results.
 
+>>>rjs put in meaningful examples 
 
-— You’re not teaching me karate! You’re just using me to paint your fence and wax your car!
-
-
-— Show me: wax on!
-
-
-The third stage comes when somebody is proficient in the skills needed, but still not in his or her comfort zone. He or she has the skills and the ability to deliver, but just doesn’t know it yet. This makes for yet a third type of leadership, which basically is endless encouragement.
+The third stage comes when somebody is proficient in the skills needed, but still not in his or her comfort zone. He or she has the skills and the ability to deliver, but just doesn’t know it yet. This third type of leadership is basically endless encouragement.
 
 
 — I’m never going to be any good at this! (makes a backflip from standstill)
 
 
-Finally, the fourth and final stage is when somebody is self-motivated and self-reliant. At that point, he or she has more or less ascended to be your equal and doesn’t require much in the way of maintenance. The only important thing is that you periodically recognize him or her when he or she walks an extra mile. In this scenario, the one thing to keep in mind is that you recognize an extra mile only when it really is an extra mile — nobody in the fourth stage wants to be commended for performing trivial and routine tasks well.
+Finally, the fourth and final stage is when somebody is self-motivated and self-reliant. At that point, they have ascended to be your equal and don’t require much in the way of maintenance. The  important thing is that you periodically recognize them when they walk an extra mile. In this scenario, the one thing to keep in mind is that you recognize an extra mile only when it really is an extra mile — nobody in the fourth stage wants to be commended for performing trivial and routine tasks well.
 
 
-You need to assess every individual you work with here — you need to assess where everyone is on this scale in his or her specific context. He or she may be in several different places at once if he or she is working in multiple contexts.
+You need to constantly assess where everyone is on this scale in their specific context. They may be in several different places at once if they're working in multiple contexts.
 
 
 To wrap this up, you also need to pay attention to how groups form and mature. Groups, too, will pass through stages.
 
 
-When new people first meet in a working environment, you can observe them being very polite and friendly with one another. If somebody appears offended, apologies follow immediately. These are symptoms of a group that cannot yet deliver effectively. Politeness is a sign of an inefficient group that hasn’t learned how to work as a team; people are keeping distance.
+At first group members are very polite and friendly with one another. If somebody appears offended, apologies follow immediately. Politeness is a sign of an inefficient group that hasn’t learned how to work as a team; people are keeping distance.
 
 
-Over time, as these individuals learn to work together, they also explore where their limits go, and these limits of people’s roles will start to collide and flow into one another. This is when they start fighting between themselves over rules and culture in the group. This is a significant step forward from overfriendly politeness and shows that the group is well on its way to becoming a well-functioning team.
+Over time, people work together, they explore where their limits go, and these limits start to collide and combine. This is when they start fighting between themselves over rules and culture in the group. This is a significant step forward from overfriendly politeness and shows that the group is well on its way to becoming a well-functioning team.
 
 
 Finally, in the third phase, you see nothing of the clearly marked distances that were there at the outset. A functioning team can be observed by everybody seeming to know what to do without anybody spelling it out; the group has learned how to work together.
@@ -1261,10 +1234,6 @@ Finally, in the third phase, you see nothing of the clearly marked distances tha
 
 You need to be aware of these group phases in group psychology, and, in particular, you need to know that a small amount of conflict is actually a step of progress. A group that remains polite to each other has not learned to work well together.
 
-
-People that are polite to each other have not yet learned how to work as a team.
-
-
 We’ll take a closer look at group psychology and the inevitable conflict resolutionin the next chapter, as we discuss how to make people feel included and constructive.
 
 
@@ -1274,22 +1243,19 @@ CHAPTER SIX
 Screw Democracy, We’re on a Mission from God
 
 
-The swarm must have mechanisms for conflict resolution, for decision making, and for reward culture. There are many ways to accomplish this. A traditional voting democracy is one of the worst.
+The swarm must have mechanisms for conflict resolution, for decision making, and for reward culture. There are many ways to accomplish this but traditional voting democracy is one of the worst. In any organization, it happens that one person wants to limit what another person in the organization can do. This creates a conflict and there are four ways to resolve this situation.
 
 
-We can easily observe that, in any organization, it happens that one person wants to limit what another person in the organization can do. This creates a conflict. In general, there are four ways to resolve this situation.
+No one has the right to limit what another can do. This would be the typical swarmthink, at least as far as nonscarce resources are involved. (When it comes to money, in case the swarm has any, decisions need to be made.)
 
 
-You can say that no person in the swarm has the right to limit what another can do. This would be the typical swarmthink, at least as far as nonscarce resources are involved. (When it comes to money, in case the swarm has any, decisions need to be made.)
+51 percent of the swarm has the right to exercise power over 49 percent of the swarm, which would be a meeting-and-voting scenario. This is not only counter to swarmthink, but it also creates a culture of fear of losing rather than a culture of empowerment and action.
 
 
-You could also determine that 51 percent of the swarm has the right to exercise power over 49 percent of the swarm, which would be a meeting-and-voting scenario. This is not only counter to swarmthink, but it also creates a culture of fear of losing rather than a culture of empowerment and action.
+Someone has the final decision. Ruling over others by decree is not only completely counter to swarmthink, but it doesn’t work in the first place, as people are volunteers and, quite frankly, do whatever they want.
 
 
-You could also go with the principle of somebody having the final decision. Ruling over others by decree is not only completely counter to swarmthink, but it doesn’t work in the first place, as people are volunteers and, quite frankly, do whatever they want.
-
-
-Finally, you can say that everybody has the power of veto for decisions. While this creates significant border-setting problems with regard to exactly who constitutes “everybody,” it is one of the most inclusive ways to get volunteers on board once that problem has been solved. However, it only works well for smaller subgroups (30 or less people).
+Everybody has the power of veto for decisions. This creates significant  problems with who constitutes “everybody,” it is one of the most inclusive ways to get volunteers on board once that problem has been solved. However, it only works well for smaller subgroups (30 or less people).
 
 
 Let’s take a look at each of these four mechanisms.
@@ -1298,28 +1264,22 @@ Let’s take a look at each of these four mechanisms.
 First, let's discard ruling by decree as effective. That is not how a swarm works, and it would establish you (or other decision-makers) as a bottleneck for everything the swarm needed to do, disabling the swarm’s speed, trust, and scale advantages. It also assumes that the ordered person accepts the decree, which she or he has no reason at all to do, being a volunteer of his or her own free will.
 
 
-This leads us to the next method of conflict resolution, voting. Internal democracy is often heralded as a praise-be-all because it leads to legitimacy in the elected decision makers. This is true for a country, and paramount on that stage: when citizens don’t perceive their legislators as legitimate, a situation is created which can get quite messy. Democracy has never been the state constitution of choice because of its ability to bring forward the best and wisest managers of a country, but because it has the best ability to stave off disastrous managers, and because the resulting choice of manager has a perceived legitimacy in an environment where all citizens find themselves subjected to the rules of that country.
+This leads us to voting. Internal democracy is often heralded as a heal-all because it leads to legitimacy in the elected decision makers. This is true for a country: when citizens don’t perceive their legislators as legitimate, a messy situation is created. Democracy has never been the state constitution of choice because of its ability to bring forward the best and wisest managers of a country, but because it has the best ability to stave off disastrous managers, and because the resulting choice of manager has a perceived legitimacy in an environment where all citizens find themselves subjected to the rules of that country.
 
 
 But legitimacy in a swarm is quite different from legitimacy in a country. People cannot realistically choose to not be in a country, but people do choose to be part of a swarm or not be part of it. Therefore, legitimacy in the decision making of the swarm comes through the fact that people are volunteers in the first place and choose to be part of the swarm, with all the values that come with it.
 
 
-Therefore, we are free to focus on the conflict resolutionmechanisms that produce the best delivery potential for the swarm as a whole. In order for a swarm to function, people need to be happy about being part of it. There is a need to make everybody feel like a winner for pursuing their individual goals through the swarm, rather than choosing to stand outside it.
+Therefore, we are free to focus on the conflict resolution mechanisms that produce the best delivery potential for the swarm as a whole. In order for a swarm to function, people need to be happy about being part of it. There is a need to make everybody feel like a winner for pursuing their individual goals through the swarm, rather than choosing to stand outside it.
 
 
-Here, we arrive at the important key insight:
+Here is the key insight:
 
 
 The process of voting creates losers.
 
 
-People who become losers are not happy.
-
-
-Happy people are productive, enthusiastic, and good activists. Therefore, we want happy people.
-
-
-Voting creates losers, and losers are un­happy activists who disengage. Don't vote.
+People who become losers are not happy. Happy people are productive, enthusiastic, and good activists. Therefore, we want happy people. Losers are un­happy activists who disengage. Don't vote.
 
 
 When it comes to a traditional internal democracy, which is the dangerously easy way out for any conflict resolution, there are important drawbacks and side effects to be aware of. People who anticipate a voting process prepare themselves for the possibility of losing — so they become motivated by fear of losing personally, rather than motivated by the joy of building the swarm that furthers their personal goals.
@@ -1331,14 +1291,13 @@ This distortion of motivation in a voting scenario will cause such activists to 
 So, in effect, there are two good ways to resolve conflicts in a swarm.
 
 
-The first is organizational, and means that we negate the possibility of one person determining what another can do in the first place. Nobody gets to tell anybody else what to do. This is the norm for a swarm. Some people call it a “do-ocracy.”
+The first is organizational, we negate the possibility of one person determining what another can do in the first place. Nobody gets to tell anybody else what to do. This is the norm for a swarm. Some people call it a “do-ocracy.”
 
 
 The second effective method is a consensus-making decision process where everybody can veto the way forward. This method is much more costly, but can (and should) be used in rare and carefully selected scenarios where the number of people concerned is graspable – typically 30 or less. Be careful with establishing consensus decisions as an organizational requirement, though – it would be extremely cheap for an adversary to kill the operational ability of the swarm by putting one person in the group to veto every significant decision.
 
 
-Once you have clarified to the swarm that these conflict resolutionmethods are the ones we use, some people will insist that internal democracy with voting brings legitimacy to decision making. But there is an important underlying assumption at work here: that the collective makes better decisions than the individual activists. As we have seen, the swarm organization relies on the exact opposite.
-
+Once you have clarified to the swarm that these conflict resolution methods are the ones we use, some people will insist that internal democracy with voting brings legitimacy to decision making. But there is an underlying assumption here: that the collective makes better decisions than the individual activists. As we have seen, the swarm organization relies on the exact opposite.
 
 The values we desire in a swarm are inclusion, diversity, and empowerment. But if we are voting on something, we are limiting the minority — not empowering them. We are letting a 51 percent majority decide what a 49 percent minority cannot do, things that the 49 percent believe would further the swarm’s goals. It is therefore highly demoralizing. Also, we are limiting diversity, as the swarm might need that crazy 5 percent of activists to succeed in a very specialized social context that only they understand, in order to create the perfect storm of different social contexts that cooperate toward succeeding with the swarm’s end goal. Voting as a concept closes and eliminates this route to success. Finally, a swarm is legitimate only because it lets every individual include himself or herself on his or her own terms in order to further the swarm’s goals.
 
@@ -1349,94 +1308,53 @@ Therefore, “democratic legitimacy” is a contradiction in terms in a swarm or
 Instead, let’s look more at the other two methods we just highlighted.
 
 
-
-
 Meritocracy and the law of two feet
 
 
-People accustomed to voting as a catchall panacea will initially have a hard time adjusting to a swarm meritocracy, as they won’t get to determine what others shall do and not do. But this concept — that no person can have a say over any other — is part of the swarm’s core values.
+Some people will have a hard time adjusting to a swarm meritocracy, as they won’t get to determine what others shall do and not do. But this concept — that no person can have a say over any other — is part of the swarm’s core values.
 
 
-In a democratic conflict resolutionsystem, individual influence is achieved by the group waiting for a decision point and then voicing individual opinions at that point in time. In a swarm, there is no waiting and there are no such decision points. Rather, influence is achieved by individual leadership and individual appreciation — if you think something needs to be done, you just do it, without asking anybody. If other people think that your initiative is good, they will join in of their own accord. If not, they go elsewhere. Thus, the person taking an appreciated initiative gains immediate influence, which gives the swarm as a whole a tremendous momentum and learning speed.
+In a swarm, there is no waiting and there are no such decision points. Rather, influence is achieved by individual leadership and individual appreciation — if you think something needs to be done, you just do it, without asking anybody. If other people think that your initiative is good, they will join in of their own accord. If not, they go elsewhere. Thus, the person taking an appreciated initiative gains immediate influence, which gives the swarm as a whole a tremendous momentum and learning speed.
 
 
-This has sometimes been expressed as “the law of two feet”: It is every activist’s right and responsibility to go where he or she feels he or she can contribute the most and, at the same time, get the most in return as an individual. If there is no such place within this particular swarm, an activist will leave the swarm and go elsewhere.
-
-
-(Just for the record, the law applies equally to people in wheelchairs, disabled veterans, and people who otherwise don’t have two actual feet.)
-
-
-There is no shame for an activist in leaving an activity where he or she cannot contribute and going elsewhere. Quite to the contrary: it is expected and seen as showing respect for the other participants in the activity, who won’t have to keep including somebody who doesn’t feel he or she can contribute.
+“the law of two feet”: It is every activist’s right and responsibility to go where they feel they can contribute the most and get the most in return as an individual. If there is no such place within this particular swarm, an activist will leave the swarm and go elsewhere. There is no shame for an activist leaving an activity where they cannot contribute and going elsewhere. Quite the contrary: it is expected and seen as showing respect for the other participants in the activity, who won’t have to keep including somebody who doesn’t feel they can contribute.
 
 
 In this way, the swarm will take initiatives all of its own that further the swarm’s end goal. Activists will gravitate to where they see that they can contribute. And from the founder’s perspective, beautiful things just happen without any need for central control or orders.
 
 
-
-
 Empowering like crazy for fun and profit
 
 
-The tricky part can be to establish a meritocracy in an environment where people aren’t used to it. Again, this can be established through leadership — using the principle of teaching by example, and allowing others to learn through observation. In a swarm, people will copy the behavior of those with a perceived influence. As the swarm’s founder, you have the highest amount of initial such influence.
+Establishing a meritocracy in an environment where people aren’t used to it is tricky and requires leadership — using the principle of teaching by example, and allowing others to learn through observation. In a swarm, people will copy the behavior of those with a perceived influence. As the swarm’s founder, you initially get the highest amount of such influence.
+
+Solve this by immediately establishing the three-pirate rule, used in the Swedish Pirate Party. which should be set in stone as a core organizational principle. This rule, which can easily be translated into a three-activist rule for any swarm, goes like this: if three activists agree that something is good for the organization, they have a green light to act in the organization’s name. It’s not that they don’t need to ask permission — it goes deeper than that. Rather, they should never ask permission if three activists agree that something is good. And beyond that: they are specifically banned from doing asking permission. Their own judgment was the best available in the organization for their own social context, and they had to use that judgment rather than aspiring to hide behind somebody else’s greenlighting.
 
 
-I solved this by establishing the already-mentioned three-pirate rule immediately, which was later set in stone as a core organizational principle in the Swedish Pirate Party. As I explained it then, people didn’t need to ask permission, and the concept went beyond that: they were specifically banned from doing so. Their own judgment was the best available in the organization for their own social context, and they were required to use that judgment rather than aspiring to hide behind somebody else’s greenlighting.
-
-
-Asking permission, after all, is asking somebody else to take responsibility — no, accountability — for your actions. But the person asked is in a worse position to make an informed decision, and so may need to gather data to be comfortable with taking on this accountability. This creates delays and fosters insecurity in the organization.
+Asking permission is asking somebody else to take responsibility — no, accountability — for your actions. But the person asked is in a worse position to make an informed decision, and so may need to gather data to be comfortable with taking on this accountability. This creates delays and fosters insecurity in the organization.
 
 
 Asking permission is asking somebody else to take accountability for your decision.
 
 
-The key insight here is that even the largest and most rigorous processes can screw up monumentally, to the point where the rest of the world asks out loud what they were thinking. To take a concrete example, one of Sweden’s largest labor unions did a large-scale campaign with the slogan “Work gives you freedom.” This was a multimillion-euro project by one of the largest organizations in the country.
+The key insight here is that even the largest and most rigorous processes can screw up monumentally, to the point where the rest of the world asks out loud what they were thinking. To take a concrete example, one of Sweden’s largest labor unions did a large-scale campaign with the slogan “Work gives you freedom.” This was a multimillion-euro project by one of the largest organizations in the country. Of course, the billboards came back down again and ads went off the air in the blink of an eye as soon as somebody pointed out the slight…lack of propriety…in the labor union using the same slogan as the Auschwitz extermination camp had used in World War II.
 
 
-Of course, the billboards came back down again and ads went off the air in the blink of an eye as soon as somebody pointed out the slight…lack of propriety…in the labor union using the same slogan as the Auschwitz extermination camp had used in World War II.
+While this may be a humorous episodes on the surface, at the expense of somebody else’s facepalming, there’s an important lesson here, too. This is a thoroughly bureaucratic organizations with stratospherically high budgets that a swarm can never dream of. If this kind of rich organization can make such monumental mistakes, then no amount of advance checking can safeguard against making mistakes. Knowing that some percentage of things will go wrong no matter how many safeguards and checkpoints you put in place, and that this percentage is fairly constant beyond the most basic of sanity checks, then you can go into a comfortable zen mode with regard to trusting and empowering others.
 
 
-Another very honorable mention concerns the huge hospital landlord Locum, which is a Latin name meaning “place” or “location”. In the Christmas ads of 2001, they decided to advertise big. Their logo looks like this, just having their company name in lowercase:
-
-
-
-
-However, for this particular occasion, the company decided to portray themselves as a warm and friendly company, and therefore replaced the small “o” in their logo with a big red heart. Then, they plastered the result in full-color advertisements in the biggest Swedish media. I'll leave it to you to picture what message the altered logo actually conveyed in those full-color ads.
-
-
-While these may be humorous episodes on the surface, at the expense of somebody else’s facepalming, there’s an important lesson here, too. These are thoroughly bureaucratic organizations with stratospherically high budgets that a swarm can never dream of.
-
-
-If this kind of rich organization can make such monumental mistakes, then no amount of advance checking can safeguard against making mistakes. Once you realize this, that some percentage of things will go wrong no matter how many safeguards and checkpoints you put in place, and that this percentage is fairly constant beyond the most basic of sanity checks, then you can go into a comfortable zen mode with regard to trusting and empowering others.
-
-
-For if it doesn’t matter how many safeguards you put in place against PR gaffes, there is no point to bother with such safeguards in the first place. Instead, you can focus on optimizing the swarm for speed, trust, and scalability, and we can communicate to the swarm that mistakes will happen, and when they do, we fix them, learn from them, and move on.
-
-
-My approach for a very basic sanity check was to have three people agree on an idea as good for the swarm. One person can come up with ludicrous ideas, but I’ve never seen two more people agree on such ideas. This was simple, communicable, and effective, yet enough to retain the full speedand agility of the swarm.
-
-
-But this attitude has another very positive effect. By communicating clearly that in this swarm, you’re not only allowed to make mistakes, but expected to do so from time to time, you encourage the bold attitude required to change the world. You need not only your own crazy ideas, but the crazy ideas of many others to succeed, and you need to create the climate where they are welcome and rewarded.
-
-
-
+Because if it doesn’t matter how many safeguards you put in place against PR gaffes there is no point in bothering with such safeguards. Instead, focus on optimizing the swarm for speed, trust, and scalability, and when mistakes happen and they will, fix them, learn from them, and move on. The basic sanity check of the three activist rule helps eliminate the obviously ludicrous ideas, but I’ve never seen two more people agree on such ideas. This was simple, communicable, and effective, yet enough to retain the full speed and agility of the swarm. And this attitude has another positive effect. By communicating clearly that you’re not only allowed to make mistakes, but expected to do so from time to time, you encourage the bold attitude required to change the world. You need not only your own crazy ideas, but the crazy ideas of many others to succeed, and you need to create the climate where they are welcome and rewarded.
 
 Mistakes allowed here
 
-
-This part is absolutely paramount to communicate to your officers in the scaffolding supporting the swarm — that mistakes are not only allowed, but expected, and when they happen, we learn from them. (It’s a different thing to tolerate somebody making the same mistake over and over, or sabotaging the swarm deliberately, but that’s not what we’re talking about here.)
-
-
-When forming a swarm, everybody is venturing into unknown territory. By definition, it’s a trial-and-error venture. Everybody is breaking new ground in changing the world in a way that has not been tried before — both on the individual and the organizational level.
-
-
-Since this has not been tried before, there is no right answer or concrete experience to fall back on. Everything done has, to some extent, never been tried before. Therefore, by necessity, it becomes obvious that a lot of things tried won’t work out. However, a small portion of the initiatives tried will work out amazingly well, and the swarm will learn from those and build further on them.
+Communicating this to your officers in the scaffolding supporting the swarm — that mistakes are not only allowed, but expected, and when they happen, we learn from them. (It’s a different thing to tolerate somebody making the same mistake over and over, or sabotaging the swarm deliberately, but that’s not what we’re talking about here.) When forming a swarm, everybody is venturing into unknown territory. By definition, it’s a trial-and-error venture. Everybody is breaking new ground in changing the world in a way that has not been tried before — both on the individual and the organizational level. Since this has never been tried before, there is no right answer or concrete experience to fall back on. Everything done has never been tried before. Therefore, by necessity, it becomes obvious that a lot of things tried won’t work out. However, a small portion of the initiatives tried will work out amazingly well, and the swarm will learn from those and build further on them.
 
 
 The conclusion here is that you must allow things to be tried. The good stuff won’t appear if you don’t allow the bad stuff to be tried, too. You only know which is which once they’ve had a chance to work out.
 
 
 You must let the unknown be tried and evaluated to find the good stuff.
-
+>>>rjs
 
 But it’s not enough to allow things to be tried. We have discussed the importance of optimizing the swarm for speed— as in minimizing the time from somebody’s idea to somebody’s action. But to truly outrun the competition, you need to minimize the iteration cycle — the time from a failure to the next attempt at succeeding. Make it possible to learn and try again, learn again and try again, and so on, and communicate that this is not only allowed, but expected.
 
