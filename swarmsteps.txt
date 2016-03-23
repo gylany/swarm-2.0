@@ -275,4 +275,113 @@ a three-activist rule for any swarm, goes like this: if three activists agree th
 
 if a rich organization can make such monumental mistakes, then no amount of advance checking can safeguard against making mistakes. Knowing that some percentage of things will go wrong no matter how many safeguards and checkpoints you put in place,
 
+you need to minimize the iteration cycle — the time from a failure to the next attempt at succeeding. Make it possible to learn and try again, learn again and try again and say that this is not only allowed, but expected.
+
+>>>rjs put in concensus circle checklist
+
+You need to make absolutely clear to these people that the swarm works by its own consensus, that decisions are made organically by individual activists flowing to and from initiatives of their own accord, and that this swarm is your initiative; if the wannabe fixers and organizational astronauts don’t want to play by the swarm’s rules, they need to use the law of two feet themselves, and go somewhere else.
+Watch out for organizational astronauts that want to “fix” the organization.
+The swarm’s rules, by the way, are by and large that there are no rules. These people will seek to impose them.
+
+The swarm has a structure that can handle budgets and money, and that is the supporting scaffolding structure we discussed in chapter 3. It becomes the duty of the officers of the swarm to distribute resources in the most effective way to support the end goals through the initiatives of the activists. In this particular aspect, the swarm will resemble a traditional top-down organization in terms of allocating its resources in a decentralized manner. You, in control of the swarm’s formal name and resources, allocate budgets to officers, who subdivide their budget in turn. Once the swarm has any money to speak of, a sizeable chunk of it should be devoted to supporting individual activists’ initiatives where they can reclaim expenses. The swarm lives and dies with the creativity and initiatives of its activists.
+
+if there are behaviors we don’t want to see growing, we should ideally pretend they aren’t even there — block them out from our conscious radar, and spend time rewarding other kinds of behavior.
+
+
+Everything that we focus on, no matter how or why, will grow in the swarm.
+
+
+So what behavior do we want to see growing?
+
+
+Initiatives. Even initiatives that fail.
+
+
+Supporting others. Actually, this one is quite important. I frequently emphasize that helping others excel is just as valuable as excelling on your own.
+
+
+Creativity and sharing ideas.
+
+
+Helping people get along.
+
+At some point, you may want to adjust the goals of the swarm. For a political party, this is almost inevitable. For a single-issue swarm, it is more avoidable. Nevertheless, it creates very difficult problems in the face of the swarm’s disorganization.
+
+It's easy to inadvertently exclude people from participation. Work to include.
+
+
+Every exclusion is a failure. Just because you don’t see any people being formally excluded, that doesn’t mean people don’t feel excluded. Every exclusion is a failure.
+
+One way of getting around this, which the German Pirate Party has used very successfully, is to allow everybody with formal voting rights to select somebody to vote in his or her place. This voting right can be assigned differently for different issues, and also be assigned in turn, creating a chain of trustto make an informed vote. This taps into the heart of the swarm’s social mechanisms of trusting people and friends, rather than fearing to lose. “Trust over fear.” We like that. That’s swarmthink. The German Pirate Party calls this liquid democracy.
+
+A particular kind of attention-craving maverick will create a group of followers determined to wreak havoc until they get their way. This can be very disruptive and goes counter to swarmthink, where the best ideas and the best arguments win, rather than the loudest mouths. Still, it is a significant disturbance.
+
+
+The way to deal with this is not to agree to demands — if you do cave in to get rid of the disturbance, you will teach the entire organization that creating loud disturbances is a very effective way of getting influence in the swarm, and you will start going down a very bumpy road as other people start imitating that behavior. You will never be able to convince the maverick that he or she has bad ideas (and especially so if all he or she wants in the first place is attention for his or her person, rather than recognition for ideas). You will never be able to win that person.
+
+
+An organization is people, and attention is reward.
+
+
+
+Rather, you need to identify the reward mechanisms within the subgroup that has formed around the maverick. Odds are that they’re forming a group identity around not being recognized as individual activists. You can shatter this identity by recognizing good contributors in the group who are hang-arounds of the maverick; odds are that there are several good contributors in that group who are just temporarily wooed by the maverick’s charisma. If you pick away a couple of key people in this group and recognize them for good earlier work — unrelated to the maverick’s yells — you will isolate the maverick, and the disturbance will lose critical mass.
+
+
+Always remember that an organization is people, and that attention is reward.
+
+Getting 20,000 new colleagues and activists in a week isn’t a pipe dream. It happens. Quite rarely, but it does happen. You need to be prepared for it.
+
+in a swarm organization, the organizational culture cannot be communicated from person to person as the organization grows — it must be actively communicated centrally, and repeatedly communicated as new people keep joining.
+
+Values document
+>>>rjs use example of 12 step traditions or point form from swarmwise
+
+Leadership document
+
+Above all, we need to defend two things in all our actions:
+
+
+— The organization’s focus. We’re going to make the parliamentary threshold. Everything we do must be aimed at that.
+
+
+— The organization’s energy. It is incredibly easy to get drained of energy if you start feeling negative vibes. There is a need for a constantly reinforced we-can-do-this sentiment.
+
+
+In order to sustain these two values, we who have taken on officers’ and leaders’ responsibility use the following means:
+
+
+Monkey see, monkey do. We are role models. We act just the way we want other people in the organization to act. One part of this is to always try to be positive.
+
+We make decisions. We have had decision-making authority delegated to us in some area of the organization, and we use it.
+
+We lead by inspiring and suggesting, never by commanding.
+
+We advance role models. We reward our colleagues as often as we can, both in public and private, when they display a behavior we want to reinforce.
+
+We reward with attention. Every behavior that gets attention in an organization is reinforced. Therefore, we focus and give attention to good behavior, and, as far as possible, we completely ignore bad behavior. We praise the good and ignore the bad (with one exception below).
+
+We assume good faith. We assume that everybody wants the organization to succeed, even when they do things we don’t understand.
+
+We react immediately against disrespect. Even if we have great tolerance for mistakes and bad judgment, we do not show tolerance when somebody shows disrespect toward their colleagues, toward other activists.
+
+We speak from our own position. When we perceive somebody as being in the wrong, we never say “you’re stupid” or similar, but start from our own thoughts, feelings, and reactions.
+
+Administration is a support and never a purpose. We try to keep administrative weight and actions to a minimum, and instead prioritize activism.
+
+We build social connections. We meet, and we make others meet.
+
+We develop our colleagues. We help everybody develop and improve, both as activists and leaders.
+
+Have fun!
+
+Having fun in the swarm is crucial to growing the activist base.
+
+Success in a swarm doesn’t happen smoothly and fluidly. It happens in hard-to-predict enormous bursts.
+
+While grinding along without seeing any returns can feel disheartening at times, it’s important to understand that people are listening and do take notice to what you’re saying.
+
+all of a sudden, the government announces new horrible legislation that confirms everything you’ve been saying for the past two years, and you find yourself with twenty thousand new followers and five thousand new activists overnight, as you’ve gone from a doomsday prophet to being a rallying point for well-needed change. That’s the way it works.
+
+we should not confuse persistent day-to-day grinding with a refusal to see roadblocks for the uptake of the swarm’s ideas. If people tell you that your website is confusing, that the officers of the swarm are inaccessible, or that new people who come to gatherings aren’t feeling welcome, those are real issues and should absolutely not be taken as a sign to just keep doing what you’re already doing. Everybody needs to listen for real blocks to adoption of the swarm’s ideas, all the time
+
 
